@@ -25,11 +25,11 @@ To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone [https://github.com/Soumen8603/portfolio.git](https://github.com/Soumen8603/portfolio.git)
 
 Navigate to the project directory:
 
-cd your-repository-name
+cd portfolio
 
 Open the portfolio.html file in your browser:
 You can simply double-click the file, or right-click and choose "Open with" your preferred web browser.
